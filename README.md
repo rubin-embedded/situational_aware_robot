@@ -7,7 +7,9 @@ This project aims to develop a situational-aware motion planning system for mobi
 
 You can find the project documentation online at: 
 
-[Situational Awareness Robot Documentation](https://rubin-embedded.github.io/situational_aware_robot/)
+You can find the project documentation online at: 
+
+<a href="https://rubin-embedded.github.io/situational_aware_robot/" target="_blank">Situational Awareness Robot Documentation</a>
 
 For more details on the implementation and usage, please refer to the documentation linked above.
 
