@@ -135,5 +135,5 @@ This project aims to develop a situational-aware motion planning system for mobi
 - **GitHub** - Version control.
 
 ## **Contributors**
-- Rubin Khadks
+- Rubin Khadka
 
