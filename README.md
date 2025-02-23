@@ -3,6 +3,14 @@
 ## Project Overview
 This project aims to develop a situational-aware motion planning system for mobile robots operating in intralogistics environments. The system will be built using **URDF, Gazebo, and ROS** and will focus on obstacle avoidance, path planning, and real-time navigation in dynamic warehouse settings.
 
+## Documentation
+
+You can find the project documentation online at: 
+
+[Situational Awareness Robot Documentation](https://github.com/rubin-embedded/situational_aware_robot)
+
+For more details on the implementation and usage, please refer to the documentation linked above.
+
 ## Project Timeline
 
 ### **Phase 1: Project Planning and Setup (Week 1-2)**
